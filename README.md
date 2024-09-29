@@ -1,6 +1,6 @@
 # Hometown Homepage
 
-## Overview
+## Overview 📝
 
 This project is part of the ‘Web Dev Basics’ module of [**Scrimba**](https://v2.scrimba.com/home)'s [**Frontend Career Path**](https://v2.scrimba.com/the-frontend-developer-career-path-c0j) course. The objective is to develop a ‘Hometown Homepage’ following the given requirements.
 
@@ -34,7 +34,7 @@ This project is part of the ‘Web Dev Basics’ module of [**Scrimba**](https:/
 
 ![Desktop](./screenshots/desktop.avif)
 
-## Links
+## Links 🔗
 
 [Scrim code](https://v2.scrimba.com/s0bu6vo2hg) 👈
 
